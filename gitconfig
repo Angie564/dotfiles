@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = uldry.angie@gmail.com
+	name = Angie Uldry
